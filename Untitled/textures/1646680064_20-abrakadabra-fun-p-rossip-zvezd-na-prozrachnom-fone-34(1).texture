@@ -1,0 +1,37 @@
+{
+  "modelName": "texture",
+  "name": "1646680064_20-abrakadabra-fun-p-rossip-zvezd-na-prozrachnom-fone-34(1)",
+  "identifier": "texture:2186-0f0af69d-80c0-46cb-9587-cbdb22b79b96",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "ba26c30dbf411184c126e7ff010c8dbb",
+  "assetLocator": "textures/1646680064_20-abrakadabra-fun-p-rossip-zvezd-na-prozrachnom-fone-34(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "folder": "",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 568,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "ba26c30dbf411184c126e7ff010c8dbb",
+      "colorCount": 20995,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.295219642249631,
+      "pixelsHigh": 1024,
+      "pixelsWide": 568
+    }
+  ]
+}

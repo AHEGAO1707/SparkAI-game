@@ -1,0 +1,27 @@
+{
+  "modelName": "colorPaintMaterial",
+  "name": "background",
+  "identifier": "colorPaintMaterial:1140-aa2e4626-045f-463c-aada-0cfd34751eed",
+  "alphaTestEnabled": false,
+  "alphaTestThreshold": 0,
+  "backgroundInfluence": 0.7000000000000001,
+  "cullMode": "back",
+  "diffuseTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "doubleSided": false,
+  "importIssues": {},
+  "isDiffuseTextureIdentifierEnabled": false,
+  "paintBrightness": 0.7000000000000001,
+  "readDepth": true,
+  "transparency": 0.7272727272727264,
+  "writeDepth": true,
+  "writesToColorBufferAlpha": true,
+  "writesToColorBufferBlue": true,
+  "writesToColorBufferGreen": true,
+  "writesToColorBufferRed": true
+}
